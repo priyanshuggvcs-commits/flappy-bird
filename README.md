@@ -26,9 +26,6 @@ python -m http.server 8000
 ```
 Then visit http://localhost:8000.
 
-## Play online (GitHub Pages)
-Repo **Settings → Pages → Deploy from a branch → `main` / root**. Your game goes live at `https://<your-username>.github.io/<repo-name>/`.
-
 ## Project structure
 ```
 index.html   page and canvas
