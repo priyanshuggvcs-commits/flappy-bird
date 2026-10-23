@@ -1,7 +1,8 @@
 # Flappy Bird (HTML5 Canvas)
 
-A Flappy Bird clone built with plain HTML, CSS and JavaScript. No libraries, no image files, no build step. The bird, pipes and sounds are all generated in code.
+**Play it here: https://priyanshuggvcs-commits.github.io/flappy-bird/**
 
+A Flappy Bird clone built with plain HTML, CSS and JavaScript. No libraries, no image files, no build step. The bird, pipes and sounds are all generated in code.
 ## Features
 - Gravity and flap physics with a frame-rate independent game loop
 - Randomly generated pipes with collision detection
